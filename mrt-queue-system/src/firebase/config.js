@@ -10,7 +10,6 @@ const firebaseConfig = {
   storageBucket: "mrt-queue-system.firebasestorage.app",
   messagingSenderId: "1045810417595",
   appId: "1:1045810417595:web:8d7e9327f32af4d2e17e9e",
-  measurementId: "G-CT9LPJK46E"
 };
 
 const app = initializeApp(firebaseConfig);
